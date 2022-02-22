@@ -83,7 +83,7 @@ const SingleCocktail = () => {
               BACK HOME
             </Button>
           </Link>
-          <Row className="border my-5">
+          <Row className="my-5">
             <Col sm={12} md={6}>
               <Image fluid src={cocktail.image} />
             </Col>
